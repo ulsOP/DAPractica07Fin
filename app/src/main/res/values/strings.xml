@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">DAPractica07Fin</string>
+        <string name="action_settings">Settings</string>
+        <string-array name="imagenes">
+            <item>mujer</item>
+            <item>tigre</item>
+            <item>paisaj</item>
+            <item>control</item>
+            <item>bigote</item>
+        </string-array>
+    </resources>
+
